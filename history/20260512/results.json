@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-12",
+  "source": "yfinance",
+  "market_status": "trading_data_found",
+  "indices": {
+    "上证指数": {
+      "close": 4214.4893,
+      "pct_change": -0.2493,
+      "direction": "下跌"
+    },
+    "深证成指": {
+      "close": 15824.9209,
+      "pct_change": -0.4678,
+      "direction": "下跌"
+    },
+    "创业板指": {
+      "close": 3934.8821,
+      "pct_change": null,
+      "direction": "未知"
+    }
+  },
+  "指数判断": "下跌",
+  "上证涨跌幅": -0.2493,
+  "最强板块": [],
+  "最弱板块": [],
+  "fallback_reason": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+}
