@@ -4,23 +4,23 @@
   "market_status": "trading_data_found",
   "indices": {
     "上证指数": {
-      "close": NaN,
-      "pct_change": NaN,
-      "direction": "震荡"
+      "close": 4075.1016,
+      "pct_change": 0.4279,
+      "direction": "上涨"
     },
     "深证成指": {
-      "close": NaN,
-      "pct_change": NaN,
-      "direction": "震荡"
+      "close": 15591.1279,
+      "pct_change": 1.6347,
+      "direction": "上涨"
     },
     "创业板指": {
-      "close": 3950.9431,
+      "close": 4055.8708,
       "pct_change": null,
       "direction": "未知"
     }
   },
-  "指数判断": "震荡",
-  "上证涨跌幅": NaN,
+  "指数判断": "上涨",
+  "上证涨跌幅": 0.4279,
   "最强板块": [],
   "最弱板块": [],
   "fallback_reason": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
